@@ -5,6 +5,8 @@
 nav ul li a{
     display: inline-block;
     padding: 20px;
+    text-decoration: none;
+    list-style: none;
 }
 nav ul li{
     list-style: none;
@@ -18,9 +20,6 @@ ul{
     padding: 0px;
     display: flex;
     justify-content: center
-}
-nav li a{
-    text-decoration: none;
 }
 
 
