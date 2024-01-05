@@ -2,9 +2,12 @@
     margin-left: 10px;
     margin-right: 10px;
 } */
-nav ul li{
+nav ul li a{
     display: inline-block;
     padding: 20px;
+}
+nav ul li{
+    list-style: none;
 }
 
 li:hover {
@@ -13,6 +16,8 @@ li:hover {
 ul{
     background-color: bisque;
     padding: 0px;
+    display: flex;
+    justify-content: center
 }
 nav li a{
     text-decoration: none;
