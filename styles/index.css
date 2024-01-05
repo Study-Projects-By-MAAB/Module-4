@@ -1,0 +1,25 @@
+/* *{
+    margin-left: 10px;
+    margin-right: 10px;
+} */
+nav ul li{
+    display: inline-block;
+    padding: 20px;
+}
+
+li:hover {
+    background-color: aqua;
+}
+ul{
+    background-color: bisque;
+    padding: 0px;
+}
+nav li a{
+    text-decoration: none;
+}
+
+
+/* Third Task */
+td, th{
+    padding: 5px;
+}
