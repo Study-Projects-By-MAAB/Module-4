@@ -6,7 +6,7 @@ nav ul li a{
     display: inline-block;
     padding: 20px;
     text-decoration: none;
-    list-style: none;
+    /* list-style: none; */
 }
 nav ul li{
     list-style: none;
@@ -19,7 +19,7 @@ ul{
     background-color: bisque;
     padding: 0px;
     display: flex;
-    justify-content: center
+    justify-content: center;
 }
 
 
